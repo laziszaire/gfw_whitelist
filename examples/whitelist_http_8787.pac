@@ -25,7 +25,7 @@ var IP_ADDRESS = '192.168.1.111:8787';
      * Proxy type                                      *
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
-var PROXY_TYPE = 'HTTPS';
+var PROXY_TYPE = 'PROXY';
 
     // HTTPS 是用于 Chrome 的安全代理
     // http://www.chromium.org/developers/design-documents/secure-web-proxy
